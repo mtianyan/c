@@ -1,4 +1,4 @@
-#慕课网c语言路径课程-学习代码+笔记
+慕课网c语言路径课程-学习代码+笔记
 
 c语言学习路线地址：
 http://www.imooc.com/course/programdetail/pid/37
